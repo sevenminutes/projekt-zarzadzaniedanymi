@@ -1,0 +1,66 @@
+body,
+html {
+    height: 100%;
+        background-image: url("bg2.jpg");
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Oswald', Tahoma;
+}
+
+.container2 {
+    position: relative;
+    color: black;
+    margin-top: 300px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.alert {
+    display: none;
+}
+
+.top-contact{
+    padding-top: 100px;
+    width: 80%;
+    width: 100%;
+    color: white;
+}
+a:hover {
+    background-color:#33CCFF;
+  }
+
+.nav-link{
+        border-radius: 10px;
+      
+}
+
+.container {
+    position: relative;
+    margin: auto; 
+    width: 1000px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 10px solid;
+	border-color: white;
+}
+.input-group {
+    margin: 10px 0px 10px 0px;
+  }
+label {
+              color: white;
+              font-size: 30px;
+              margin-left: 20px;
+          }
+input{
+      width: 100%;
+      font-size: 30px;
+  
+  
+     }
